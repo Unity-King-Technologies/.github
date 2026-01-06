@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://unityking.com/wp-content/uploads/2024/11/logo_small.png" alt="UnityKing Logo" width="200"/>
+  <img src="https://unityking.com/wp-content/themes/unityking/assets/unity_king_logo.png" alt="UnityKing Logo" width="200"/>
 </p>
 
 #
