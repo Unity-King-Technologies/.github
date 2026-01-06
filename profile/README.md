@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://unityking.com/wp-content/themes/unityking/assets/unity_king_logo.png" alt="UnityKing Logo" width="200"/>
-</p>
-
-#
-
 Welcome to <a href="https://www.unityking.com">**UnityKing**</a> - your hub for everything **Unity Development**, **AI-powered tools**, and the **latest in technology**.  
 We focus on building innovative solutions, creating powerful Unity editor extensions, and keeping the community updated with advancements in **AI, gaming, and emerging tech sectors**.
 
