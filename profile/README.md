@@ -3,7 +3,7 @@ We focus on building innovative solutions, creating powerful Unity editor extens
 
 ---
 
-## 🚀 Our Mission
+## Our Mission
 At <a href="https://www.unityking.com">UnityKing</a>, we aim to:
 - Develop **next-generation Unity tools** for creators and developers.  
 - Explore and share <a href="https://unityking.com/topics/ai-news/">**AI-driven innovations**</a> that transform workflows.  
@@ -16,15 +16,15 @@ At <a href="https://www.unityking.com">UnityKing</a>, we aim to:
 
 ---
 
-## 📂 What We Do
-- 🎮 **Unity Tools & Extensions** – Custom editors, generators, and productivity boosters.  
-- 🤖 **AI Integration** – Practical applications of AI in game development and productivity tools.  
-- 📰 **Tech Updates** – Covering AI, gaming, and emerging technologies with fresh insights.  
-- 🛠 **Open Source Projects** – Useful scripts, utilities, and frameworks for the Unity community.  
+## What We Do
+-  **Unity Tools & Extensions** – Custom editors, generators, and productivity boosters.  
+-  **AI Integration** – Practical applications of AI in game development and productivity tools.  
+-  **Tech Updates** – Covering AI, gaming, and emerging technologies with fresh insights.  
+-  **Open Source Projects** – Useful scripts, utilities, and frameworks for the Unity community.  
 
 ---
 
-## 🌍 Community & Collaboration
+## Community & Collaboration
 UnityKing thrives on collaboration.  
 We believe in **sharing knowledge**, **empowering developers**, and **pushing the boundaries of technology**.  
 
@@ -32,9 +32,9 @@ If you’re passionate about **Game development, AI development, and the future 
 
 ---
 
-## 📢 Stay Connected
-- 💡 Regular updates and insights in AI, Gaming, and Tech.  
-- 🛠 Continuous release of new Unity tools.  
-- 🌟 Community-driven open-source contributions.  
+## Stay Connected
+- Regular updates and insights in AI, Gaming, and Tech.  
+- Continuous release of new Unity tools.  
+- Community-driven open-source contributions.  
  <a href="https://www.unityking.com">**UnityKing.com**</a>
 ---
